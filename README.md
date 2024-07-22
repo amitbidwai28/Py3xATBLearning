@@ -112,7 +112,7 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 - npm install -g npm allure-commandline
 - Verify that allure -> options
 - Run your Pytestcase - pytest ex02_July/22072024/test_Lab183.py --alluredir=allure_result
-- allure serve allure_result/
+- allure serve allure_result
 
 
 
