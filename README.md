@@ -114,7 +114,10 @@ Below are the key topics to learn in Python, organized as bullet points for easy
 - Run your Pytestcase - pytest ex02_July/22072024/test_Lab183.py --alluredir=allure_result
 - allure serve allure_result
 
-
+### How to Add Request Module to the Project
+- pip install requests
+- pytest ex02_July/24072024/test_Lab184.py --alluredir=allure_result
+- -s -help you to print the details by print command
 
 
 
